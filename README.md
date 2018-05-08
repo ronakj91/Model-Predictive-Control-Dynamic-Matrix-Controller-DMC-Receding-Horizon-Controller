@@ -1,4 +1,5 @@
-# Dynamic-Matrix-Controller-DMC-Receding-Horizon-Controller
+# Model-Predictive-Control-Dynamic-Matrix-Controller-DMC-Receding-Horizon-Controller
+
 
 Following Files are present:
 -----------------------------------------------------------------------------------------------------------
