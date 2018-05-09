@@ -1,5 +1,7 @@
 # Model-Predictive-Control-Dynamic-Matrix-Controller-DMC-Receding-Horizon-Controller
 
+A Report on Implementation is at
+https://www.scribd.com/document/378683616/Model-Predictive-Control-Report-by-Ronak-Jain
 
 Following Files are present:
 -----------------------------------------------------------------------------------------------------------
